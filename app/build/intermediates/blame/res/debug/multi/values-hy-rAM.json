@@ -7,331 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 102,
-                    "endOffset": 203
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 102,
-                        "endOffset": 378
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 208,
-                    "endColumn": 107,
-                    "endOffset": 311
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 383,
-                        "endColumn": 107,
-                        "endOffset": 486
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 316,
-                    "endColumn": 122,
-                    "endOffset": 434
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 491,
-                        "endColumn": 122,
-                        "endOffset": 609
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 439,
-                    "endColumn": 100,
-                    "endOffset": 535
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 614,
-                        "endColumn": 100,
-                        "endOffset": 710
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 540,
-                    "endColumn": 109,
-                    "endOffset": 645
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 715,
-                        "endColumn": 109,
-                        "endOffset": 820
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 650,
-                    "endColumn": 89,
-                    "endOffset": 735
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 825,
-                        "endColumn": 89,
-                        "endOffset": 910
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 740,
-                    "endColumn": 105,
-                    "endOffset": 841
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 915,
-                        "endColumn": 105,
-                        "endOffset": 1016
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 846,
-                    "endColumn": 114,
-                    "endOffset": 956
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1021,
-                        "endColumn": 114,
-                        "endOffset": 1131
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 961,
-                    "endColumn": 84,
-                    "endOffset": 1041
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1136,
-                        "endColumn": 84,
-                        "endOffset": 1216
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1046,
-                    "endColumn": 106,
-                    "endOffset": 1148
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1221,
-                        "endColumn": 106,
-                        "endOffset": 1323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1153,
-                    "endColumn": 106,
-                    "endOffset": 1255
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1328,
-                        "endColumn": 106,
-                        "endOffset": 1430
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1260,
-                    "endColumn": 98,
-                    "endOffset": 1354
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1435,
-                        "endColumn": 98,
-                        "endOffset": 1529
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1359,
-                    "endColumn": 109,
-                    "endOffset": 1464
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1534,
-                        "endColumn": 109,
-                        "endOffset": 1639
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1469,
-                    "endColumn": 106,
-                    "endOffset": 1571
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1644,
-                        "endColumn": 106,
-                        "endOffset": 1746
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1576,
-                    "endColumn": 100,
-                    "endOffset": 1672
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1751,
-                        "endColumn": 100,
-                        "endOffset": 1847
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1677,
-                    "endColumn": 119,
-                    "endOffset": 1792
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1852,
-                        "endColumn": 119,
-                        "endOffset": 1967
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1797,
-                    "endColumn": 98,
-                    "endOffset": 1891
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1972,
-                        "endColumn": 98,
-                        "endOffset": 2066
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1896,
                     "endColumn": 290,
-                    "endOffset": 2182
+                    "endOffset": 391
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -346,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 2187,
+                    "startOffset": 396,
                     "endColumn": 136,
-                    "endOffset": 2319
+                    "endOffset": 528
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -365,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 2324,
+                    "startOffset": 533,
                     "endColumn": 196,
-                    "endOffset": 2516
+                    "endOffset": 725
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -384,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2521,
+                    "startOffset": 730,
                     "endColumn": 135,
-                    "endOffset": 2652
+                    "endOffset": 861
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -403,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2657,
+                    "startOffset": 866,
                     "endColumn": 138,
-                    "endOffset": 2791
+                    "endOffset": 1000
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -422,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2796,
+                    "startOffset": 1005,
                     "endColumn": 221,
-                    "endOffset": 3013
+                    "endOffset": 1222
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -441,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 3018,
+                    "startOffset": 1227,
                     "endColumn": 222,
-                    "endOffset": 3236
+                    "endOffset": 1445
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -460,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 3241,
+                    "startOffset": 1450,
                     "endColumn": 137,
-                    "endOffset": 3374
+                    "endOffset": 1583
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -479,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 3379,
+                    "startOffset": 1588,
                     "endColumn": 167,
-                    "endOffset": 3542
+                    "endOffset": 1751
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -498,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 3547,
+                    "startOffset": 1756,
                     "endColumn": 121,
-                    "endOffset": 3664
+                    "endOffset": 1873
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -517,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3669,
+                    "startOffset": 1878,
                     "endColumn": 178,
-                    "endOffset": 3843
+                    "endOffset": 2052
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -536,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3848,
+                    "startOffset": 2057,
                     "endColumn": 119,
-                    "endOffset": 3963
+                    "endOffset": 2172
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -555,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3968,
+                    "startOffset": 2177,
                     "endColumn": 142,
-                    "endOffset": 4106
+                    "endOffset": 2315
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -574,11 +251,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 4111,
+                    "startOffset": 2320,
                     "endColumn": 167,
-                    "endOffset": 4274
+                    "endOffset": 2483
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -593,11 +270,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 4279,
+                    "startOffset": 2488,
                     "endColumn": 131,
-                    "endOffset": 4406
+                    "endOffset": 2615
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -612,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 4411,
+                    "startOffset": 2620,
                     "endColumn": 169,
-                    "endOffset": 4576
+                    "endOffset": 2785
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -631,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 4581,
+                    "startOffset": 2790,
                     "endColumn": 122,
-                    "endOffset": 4699
+                    "endOffset": 2908
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -650,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 4704,
+                    "startOffset": 2913,
                     "endColumn": 258,
-                    "endOffset": 4958
+                    "endOffset": 3167
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-hy-rAM\\common_strings.xml",
@@ -669,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 4963,
+                    "startOffset": 3172,
                     "endColumn": 270,
-                    "endOffset": 5229
+                    "endOffset": 3438
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -688,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 5234,
+                    "startOffset": 3443,
                     "endColumn": 130,
-                    "endOffset": 5360
+                    "endOffset": 3569
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -707,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 5365,
+                    "startOffset": 3574,
                     "endColumn": 109,
-                    "endOffset": 5470
+                    "endOffset": 3679
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -726,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 5475,
+                    "startOffset": 3684,
                     "endColumn": 198,
-                    "endOffset": 5669
+                    "endOffset": 3878
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -745,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 5674,
+                    "startOffset": 3883,
                     "endColumn": 137,
-                    "endOffset": 5807
+                    "endOffset": 4016
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -764,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 5812,
+                    "startOffset": 4021,
                     "endColumn": 220,
-                    "endOffset": 6028
+                    "endOffset": 4237
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -783,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 6033,
+                    "startOffset": 4242,
                     "endColumn": 139,
-                    "endOffset": 6168
+                    "endOffset": 4377
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -802,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 6173,
+                    "startOffset": 4382,
                     "endColumn": 195,
-                    "endOffset": 6364
+                    "endOffset": 4573
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -821,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 6369,
+                    "startOffset": 4578,
                     "endColumn": 93,
-                    "endOffset": 6458
+                    "endOffset": 4667
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -840,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 6463,
+                    "startOffset": 4672,
                     "endColumn": 96,
-                    "endOffset": 6555
+                    "endOffset": 4764
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -859,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 6560,
+                    "startOffset": 4769,
                     "endColumn": 111,
-                    "endOffset": 6667
+                    "endOffset": 4876
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-hy-rAM\\base_strings.xml",
@@ -878,220 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 6672,
-                    "endColumn": 111,
-                    "endOffset": 6779
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 111,
-                        "endOffset": 389
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6784,
-                    "endColumn": 112,
-                    "endOffset": 6892
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 394,
-                        "endColumn": 112,
-                        "endOffset": 502
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6897,
-                    "endColumn": 100,
-                    "endOffset": 6993
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 507,
-                        "endColumn": 100,
-                        "endOffset": 603
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 6998,
-                    "endColumn": 101,
-                    "endOffset": 7095
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 608,
-                        "endColumn": 101,
-                        "endOffset": 705
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 7100,
-                    "endColumn": 131,
-                    "endOffset": 7227
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 710,
-                        "endColumn": 131,
-                        "endOffset": 837
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 7232,
-                    "endColumn": 95,
-                    "endOffset": 7323
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 842,
-                        "endColumn": 95,
-                        "endOffset": 933
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 7328,
-                    "endColumn": 98,
-                    "endOffset": 7422
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 938,
-                        "endColumn": 98,
-                        "endOffset": 1032
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 7427,
-                    "endColumn": 136,
-                    "endOffset": 7559
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1037,
-                        "endColumn": 136,
-                        "endOffset": 1169
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 7564,
-                    "endColumn": 112,
-                    "endOffset": 7672
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1174,
-                        "endColumn": 112,
-                        "endOffset": 1282
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 7677,
-                    "endColumn": 87,
-                    "endOffset": 7760
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1287,
-                        "endColumn": 87,
-                        "endOffset": 1370
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 7765,
-                    "endColumn": 92,
-                    "endOffset": 7853
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1375,
-                        "endColumn": 92,
-                        "endOffset": 1463
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 7858,
+                    "startOffset": 4881,
                     "endColumn": 110,
-                    "endOffset": 7964
+                    "endOffset": 4987
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-hy-rAM\\location_strings.xml",
@@ -1106,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 7969,
+                    "startOffset": 4992,
                     "endColumn": 96,
-                    "endOffset": 8061
+                    "endOffset": 5084
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-hy-rAM\\location_strings.xml",
@@ -1120,25 +588,6 @@
                         "startOffset": 230,
                         "endColumn": 96,
                         "endOffset": 322
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 8066,
-                    "endColumn": 100,
-                    "endOffset": 8162
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-hy-rAM\\values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2071,
-                        "endColumn": 100,
-                        "endOffset": 2167
                     }
                 }
             }

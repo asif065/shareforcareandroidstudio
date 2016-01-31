@@ -7,331 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 104,
-                    "endOffset": 205
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 104,
-                        "endOffset": 380
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 210,
-                    "endColumn": 107,
-                    "endOffset": 313
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 385,
-                        "endColumn": 107,
-                        "endOffset": 488
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 318,
-                    "endColumn": 122,
-                    "endOffset": 436
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 493,
-                        "endColumn": 122,
-                        "endOffset": 611
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 441,
-                    "endColumn": 103,
-                    "endOffset": 540
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 616,
-                        "endColumn": 103,
-                        "endOffset": 715
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 545,
-                    "endColumn": 107,
-                    "endOffset": 648
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 720,
-                        "endColumn": 107,
-                        "endOffset": 823
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 653,
-                    "endColumn": 90,
-                    "endOffset": 739
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 828,
-                        "endColumn": 90,
-                        "endOffset": 914
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 744,
-                    "endColumn": 106,
-                    "endOffset": 846
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 919,
-                        "endColumn": 106,
-                        "endOffset": 1021
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 851,
-                    "endColumn": 126,
-                    "endOffset": 973
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1026,
-                        "endColumn": 126,
-                        "endOffset": 1148
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 978,
-                    "endColumn": 87,
-                    "endOffset": 1061
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1153,
-                        "endColumn": 87,
-                        "endOffset": 1236
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1066,
-                    "endColumn": 109,
-                    "endOffset": 1171
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1241,
-                        "endColumn": 109,
-                        "endOffset": 1346
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1176,
-                    "endColumn": 115,
-                    "endOffset": 1287
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1351,
-                        "endColumn": 115,
-                        "endOffset": 1462
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1292,
-                    "endColumn": 102,
-                    "endOffset": 1390
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1467,
-                        "endColumn": 102,
-                        "endOffset": 1565
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1395,
-                    "endColumn": 114,
-                    "endOffset": 1505
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1570,
-                        "endColumn": 114,
-                        "endOffset": 1680
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1510,
-                    "endColumn": 101,
-                    "endOffset": 1607
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1685,
-                        "endColumn": 101,
-                        "endOffset": 1782
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1612,
-                    "endColumn": 114,
-                    "endOffset": 1722
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1787,
-                        "endColumn": 114,
-                        "endOffset": 1897
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1727,
-                    "endColumn": 130,
-                    "endOffset": 1853
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1902,
-                        "endColumn": 130,
-                        "endOffset": 2028
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1858,
-                    "endColumn": 111,
-                    "endOffset": 1965
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2033,
-                        "endColumn": 111,
-                        "endOffset": 2140
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1970,
                     "endColumn": 260,
-                    "endOffset": 2226
+                    "endOffset": 361
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -346,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 2231,
+                    "startOffset": 366,
                     "endColumn": 136,
-                    "endOffset": 2363
+                    "endOffset": 498
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -365,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 2368,
+                    "startOffset": 503,
                     "endColumn": 189,
-                    "endOffset": 2553
+                    "endOffset": 688
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -384,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2558,
+                    "startOffset": 693,
                     "endColumn": 135,
-                    "endOffset": 2689
+                    "endOffset": 824
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -403,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2694,
+                    "startOffset": 829,
                     "endColumn": 138,
-                    "endOffset": 2828
+                    "endOffset": 963
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -422,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2833,
+                    "startOffset": 968,
                     "endColumn": 203,
-                    "endOffset": 3032
+                    "endOffset": 1167
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -441,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 3037,
+                    "startOffset": 1172,
                     "endColumn": 210,
-                    "endOffset": 3243
+                    "endOffset": 1378
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -460,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 3248,
+                    "startOffset": 1383,
                     "endColumn": 137,
-                    "endOffset": 3381
+                    "endOffset": 1516
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -479,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 3386,
+                    "startOffset": 1521,
                     "endColumn": 177,
-                    "endOffset": 3559
+                    "endOffset": 1694
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -498,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 3564,
+                    "startOffset": 1699,
                     "endColumn": 116,
-                    "endOffset": 3676
+                    "endOffset": 1811
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -517,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3681,
+                    "startOffset": 1816,
                     "endColumn": 157,
-                    "endOffset": 3834
+                    "endOffset": 1969
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -536,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3839,
+                    "startOffset": 1974,
                     "endColumn": 120,
-                    "endOffset": 3955
+                    "endOffset": 2090
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -555,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3960,
+                    "startOffset": 2095,
                     "endColumn": 134,
-                    "endOffset": 4090
+                    "endOffset": 2225
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -574,11 +251,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 4095,
+                    "startOffset": 2230,
                     "endColumn": 156,
-                    "endOffset": 4247
+                    "endOffset": 2382
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -593,11 +270,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 4252,
+                    "startOffset": 2387,
                     "endColumn": 127,
-                    "endOffset": 4375
+                    "endOffset": 2510
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -612,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 4380,
+                    "startOffset": 2515,
                     "endColumn": 178,
-                    "endOffset": 4554
+                    "endOffset": 2689
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -631,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 4559,
+                    "startOffset": 2694,
                     "endColumn": 123,
-                    "endOffset": 4678
+                    "endOffset": 2813
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -650,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 4683,
+                    "startOffset": 2818,
                     "endColumn": 245,
-                    "endOffset": 4924
+                    "endOffset": 3059
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ne-rNP\\common_strings.xml",
@@ -669,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 4929,
+                    "startOffset": 3064,
                     "endColumn": 249,
-                    "endOffset": 5174
+                    "endOffset": 3309
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -688,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 5179,
+                    "startOffset": 3314,
                     "endColumn": 122,
-                    "endOffset": 5297
+                    "endOffset": 3432
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -707,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 5302,
+                    "startOffset": 3437,
                     "endColumn": 119,
-                    "endOffset": 5417
+                    "endOffset": 3552
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -726,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 5422,
+                    "startOffset": 3557,
                     "endColumn": 195,
-                    "endOffset": 5613
+                    "endOffset": 3748
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -745,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 5618,
+                    "startOffset": 3753,
                     "endColumn": 138,
-                    "endOffset": 5752
+                    "endOffset": 3887
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -764,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 5757,
+                    "startOffset": 3892,
                     "endColumn": 206,
-                    "endOffset": 5959
+                    "endOffset": 4094
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -783,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 5964,
+                    "startOffset": 4099,
                     "endColumn": 142,
-                    "endOffset": 6102
+                    "endOffset": 4237
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -802,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 6107,
+                    "startOffset": 4242,
                     "endColumn": 181,
-                    "endOffset": 6284
+                    "endOffset": 4419
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -821,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 6289,
+                    "startOffset": 4424,
                     "endColumn": 94,
-                    "endOffset": 6379
+                    "endOffset": 4514
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -840,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 6384,
+                    "startOffset": 4519,
                     "endColumn": 101,
-                    "endOffset": 6481
+                    "endOffset": 4616
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -859,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 6486,
+                    "startOffset": 4621,
                     "endColumn": 121,
-                    "endOffset": 6603
+                    "endOffset": 4738
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ne-rNP\\base_strings.xml",
@@ -878,220 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 6608,
-                    "endColumn": 105,
-                    "endOffset": 6709
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 105,
-                        "endOffset": 383
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6714,
-                    "endColumn": 121,
-                    "endOffset": 6831
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 388,
-                        "endColumn": 121,
-                        "endOffset": 505
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6836,
-                    "endColumn": 110,
-                    "endOffset": 6942
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 510,
-                        "endColumn": 110,
-                        "endOffset": 616
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 6947,
-                    "endColumn": 112,
-                    "endOffset": 7055
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 621,
-                        "endColumn": 112,
-                        "endOffset": 729
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 7060,
-                    "endColumn": 120,
-                    "endOffset": 7176
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 734,
-                        "endColumn": 120,
-                        "endOffset": 850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 7181,
-                    "endColumn": 100,
-                    "endOffset": 7277
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 855,
-                        "endColumn": 100,
-                        "endOffset": 951
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 7282,
-                    "endColumn": 99,
-                    "endOffset": 7377
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 956,
-                        "endColumn": 99,
-                        "endOffset": 1051
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 7382,
-                    "endColumn": 115,
-                    "endOffset": 7493
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1056,
-                        "endColumn": 115,
-                        "endOffset": 1167
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 7498,
+                    "startOffset": 4743,
                     "endColumn": 108,
-                    "endOffset": 7602
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1172,
-                        "endColumn": 108,
-                        "endOffset": 1276
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 7607,
-                    "endColumn": 86,
-                    "endOffset": 7689
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1281,
-                        "endColumn": 86,
-                        "endOffset": 1363
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 7694,
-                    "endColumn": 94,
-                    "endOffset": 7784
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1368,
-                        "endColumn": 94,
-                        "endOffset": 1458
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 7789,
-                    "endColumn": 108,
-                    "endOffset": 7893
+                    "endOffset": 4847
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-ne-rNP\\location_strings.xml",
@@ -1106,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 7898,
+                    "startOffset": 4852,
                     "endColumn": 92,
-                    "endOffset": 7986
+                    "endOffset": 4940
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-ne-rNP\\location_strings.xml",
@@ -1120,25 +588,6 @@
                         "startOffset": 230,
                         "endColumn": 92,
                         "endOffset": 318
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 7991,
-                    "endColumn": 100,
-                    "endOffset": 8087
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2145,
-                        "endColumn": 100,
-                        "endOffset": 2241
                     }
                 }
             }

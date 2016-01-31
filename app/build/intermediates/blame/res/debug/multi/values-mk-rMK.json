@@ -7,293 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 107,
-                    "endOffset": 208
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 107,
-                        "endOffset": 383
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 213,
-                    "endColumn": 122,
-                    "endOffset": 331
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 388,
-                        "endColumn": 122,
-                        "endOffset": 506
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 336,
-                    "endColumn": 103,
-                    "endOffset": 435
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 511,
-                        "endColumn": 103,
-                        "endOffset": 610
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 440,
-                    "endColumn": 107,
-                    "endOffset": 543
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 615,
-                        "endColumn": 107,
-                        "endOffset": 718
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 548,
-                    "endColumn": 85,
-                    "endOffset": 629
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 723,
-                        "endColumn": 85,
-                        "endOffset": 804
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 634,
-                    "endColumn": 104,
-                    "endOffset": 734
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 809,
-                        "endColumn": 104,
-                        "endOffset": 909
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 739,
-                    "endColumn": 118,
-                    "endOffset": 853
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 914,
-                        "endColumn": 118,
-                        "endOffset": 1028
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 858,
-                    "endColumn": 86,
-                    "endOffset": 940
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1033,
-                        "endColumn": 86,
-                        "endOffset": 1115
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 945,
-                    "endColumn": 105,
-                    "endOffset": 1046
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1120,
-                        "endColumn": 105,
-                        "endOffset": 1221
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1051,
-                    "endColumn": 106,
-                    "endOffset": 1153
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1226,
-                        "endColumn": 106,
-                        "endOffset": 1328
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1158,
-                    "endColumn": 100,
-                    "endOffset": 1254
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1333,
-                        "endColumn": 100,
-                        "endOffset": 1429
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1259,
-                    "endColumn": 106,
-                    "endOffset": 1361
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1434,
-                        "endColumn": 106,
-                        "endOffset": 1536
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1366,
-                    "endColumn": 110,
-                    "endOffset": 1472
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1541,
-                        "endColumn": 110,
-                        "endOffset": 1647
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1477,
-                    "endColumn": 103,
-                    "endOffset": 1576
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1652,
-                        "endColumn": 103,
-                        "endOffset": 1751
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1581,
-                    "endColumn": 97,
-                    "endOffset": 1674
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1756,
-                        "endColumn": 97,
-                        "endOffset": 1849
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1679,
                     "endColumn": 254,
-                    "endOffset": 1929
+                    "endOffset": 355
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -308,11 +23,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 1934,
+                    "startOffset": 360,
                     "endColumn": 135,
-                    "endOffset": 2065
+                    "endOffset": 491
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -327,11 +42,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 2070,
+                    "startOffset": 496,
                     "endColumn": 192,
-                    "endOffset": 2258
+                    "endOffset": 684
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -346,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2263,
+                    "startOffset": 689,
                     "endColumn": 134,
-                    "endOffset": 2393
+                    "endOffset": 819
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -365,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2398,
+                    "startOffset": 824,
                     "endColumn": 135,
-                    "endOffset": 2529
+                    "endOffset": 955
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -384,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2534,
+                    "startOffset": 960,
                     "endColumn": 212,
-                    "endOffset": 2742
+                    "endOffset": 1168
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -403,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 2747,
+                    "startOffset": 1173,
                     "endColumn": 212,
-                    "endOffset": 2955
+                    "endOffset": 1381
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -422,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 2960,
+                    "startOffset": 1386,
                     "endColumn": 134,
-                    "endOffset": 3090
+                    "endOffset": 1516
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -441,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 3095,
+                    "startOffset": 1521,
                     "endColumn": 171,
-                    "endOffset": 3262
+                    "endOffset": 1688
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -460,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 3267,
+                    "startOffset": 1693,
                     "endColumn": 121,
-                    "endOffset": 3384
+                    "endOffset": 1810
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -479,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3389,
+                    "startOffset": 1815,
                     "endColumn": 177,
-                    "endOffset": 3562
+                    "endOffset": 1988
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -498,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3567,
+                    "startOffset": 1993,
                     "endColumn": 123,
-                    "endOffset": 3686
+                    "endOffset": 2112
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -517,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3691,
+                    "startOffset": 2117,
                     "endColumn": 139,
-                    "endOffset": 3826
+                    "endOffset": 2252
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -536,11 +251,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 3831,
+                    "startOffset": 2257,
                     "endColumn": 170,
-                    "endOffset": 3997
+                    "endOffset": 2423
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -555,11 +270,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 4002,
+                    "startOffset": 2428,
                     "endColumn": 127,
-                    "endOffset": 4125
+                    "endOffset": 2551
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -574,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 4130,
+                    "startOffset": 2556,
                     "endColumn": 171,
-                    "endOffset": 4297
+                    "endOffset": 2723
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -593,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 4302,
+                    "startOffset": 2728,
                     "endColumn": 128,
-                    "endOffset": 4426
+                    "endOffset": 2852
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -612,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 4431,
+                    "startOffset": 2857,
                     "endColumn": 237,
-                    "endOffset": 4664
+                    "endOffset": 3090
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-mk-rMK\\common_strings.xml",
@@ -631,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 4669,
+                    "startOffset": 3095,
                     "endColumn": 247,
-                    "endOffset": 4912
+                    "endOffset": 3338
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -650,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 4917,
+                    "startOffset": 3343,
                     "endColumn": 124,
-                    "endOffset": 5037
+                    "endOffset": 3463
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -669,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 5042,
+                    "startOffset": 3468,
                     "endColumn": 108,
-                    "endOffset": 5146
+                    "endOffset": 3572
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -688,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 5151,
+                    "startOffset": 3577,
                     "endColumn": 196,
-                    "endOffset": 5343
+                    "endOffset": 3769
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -707,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 5348,
+                    "startOffset": 3774,
                     "endColumn": 134,
-                    "endOffset": 5478
+                    "endOffset": 3904
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -726,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 5483,
+                    "startOffset": 3909,
                     "endColumn": 211,
-                    "endOffset": 5690
+                    "endOffset": 4116
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -745,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 5695,
+                    "startOffset": 4121,
                     "endColumn": 137,
-                    "endOffset": 5828
+                    "endOffset": 4254
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -764,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 5833,
+                    "startOffset": 4259,
                     "endColumn": 188,
-                    "endOffset": 6017
+                    "endOffset": 4443
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -783,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 6022,
+                    "startOffset": 4448,
                     "endColumn": 97,
-                    "endOffset": 6115
+                    "endOffset": 4541
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -802,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 6120,
+                    "startOffset": 4546,
                     "endColumn": 93,
-                    "endOffset": 6209
+                    "endOffset": 4635
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -821,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 6214,
+                    "startOffset": 4640,
                     "endColumn": 108,
-                    "endOffset": 6318
+                    "endOffset": 4744
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-mk-rMK\\base_strings.xml",
@@ -840,220 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 6323,
-                    "endColumn": 108,
-                    "endOffset": 6427
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 108,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6432,
-                    "endColumn": 114,
-                    "endOffset": 6542
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 114,
-                        "endOffset": 501
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6547,
-                    "endColumn": 106,
-                    "endOffset": 6649
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 506,
-                        "endColumn": 106,
-                        "endOffset": 608
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6654,
-                    "endColumn": 104,
-                    "endOffset": 6754
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 613,
-                        "endColumn": 104,
-                        "endOffset": 713
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6759,
-                    "endColumn": 126,
-                    "endOffset": 6881
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 718,
-                        "endColumn": 126,
-                        "endOffset": 840
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 6886,
-                    "endColumn": 95,
-                    "endOffset": 6977
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 845,
-                        "endColumn": 95,
-                        "endOffset": 936
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 6982,
-                    "endColumn": 101,
-                    "endOffset": 7079
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 941,
-                        "endColumn": 101,
-                        "endOffset": 1038
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 7084,
-                    "endColumn": 126,
-                    "endOffset": 7206
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1043,
-                        "endColumn": 126,
-                        "endOffset": 1165
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 7211,
-                    "endColumn": 106,
-                    "endOffset": 7313
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1170,
-                        "endColumn": 106,
-                        "endOffset": 1272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 7318,
-                    "endColumn": 85,
-                    "endOffset": 7399
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1277,
-                        "endColumn": 85,
-                        "endOffset": 1358
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 7404,
-                    "endColumn": 91,
-                    "endOffset": 7491
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1363,
-                        "endColumn": 91,
-                        "endOffset": 1450
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 7496,
+                    "startOffset": 4749,
                     "endColumn": 122,
-                    "endOffset": 7614
+                    "endOffset": 4867
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-mk-rMK\\location_strings.xml",
@@ -1068,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 7619,
+                    "startOffset": 4872,
                     "endColumn": 97,
-                    "endOffset": 7712
+                    "endOffset": 4965
                 },
                 "from": {
                     "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-mk-rMK\\location_strings.xml",
@@ -1082,25 +588,6 @@
                         "startOffset": 230,
                         "endColumn": 97,
                         "endOffset": 323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 7717,
-                    "endColumn": 100,
-                    "endOffset": 7813
-                },
-                "from": {
-                    "file": "D:\\StudioProjects\\ShareForCare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1854,
-                        "endColumn": 100,
-                        "endOffset": 1950
                     }
                 }
             }

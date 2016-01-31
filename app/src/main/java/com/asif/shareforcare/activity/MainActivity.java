@@ -5,15 +5,26 @@ import java.util.HashMap;
 import com.asif.shareforcare.R;
 import com.asif.shareforcare.helper.SQLiteHandler;
 import com.asif.shareforcare.helper.SessionManager;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.location.LocationServices;
+import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
+import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener;
+import com.google.android.gms.common.ConnectionResult;
 
+import android.Manifest;
 import android.app.Activity;
 import android.content.Intent;
+import android.location.Location;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
-public class MainActivity extends Activity {
+public class MainActivity extends Activity implements
+		ConnectionCallbacks, OnConnectionFailedListener {
 
 	private TextView txtName;
 	private TextView txtEmail;
@@ -22,10 +33,34 @@ public class MainActivity extends Activity {
 	private SQLiteHandler db;
 	private SessionManager session;
 
+	protected static final String TAG = "MainActivity";
+
+	/**
+	 * Provides the entry point to Google Play services.
+	 */
+	protected GoogleApiClient mGoogleApiClient;
+
+
+	/**
+	 * Represents a geographical location.
+	 */
+	protected Location mLastLocation;
+
+	protected String mLatitudeLabel;
+	protected String mLongitudeLabel;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		mLatitudeLabel = getResources().getString(R.string.latitude_label);
+		mLongitudeLabel = getResources().getString(R.string.longitude_label);
+
+
+		Log.i(TAG, "Calling Build");
+
+		buildGoogleApiClient();
 
 		txtName = (TextView) findViewById(R.id.name);
 		txtEmail = (TextView) findViewById(R.id.email);
@@ -59,6 +94,69 @@ public class MainActivity extends Activity {
 				logoutUser();
 			}
 		});
+
+
+	}
+
+
+	/**
+	 * Builds a GoogleApiClient. Uses the addApi() method to request the LocationServices API.
+	 */
+	protected synchronized void buildGoogleApiClient(){
+		mGoogleApiClient = new GoogleApiClient.Builder(this)
+				.addConnectionCallbacks(this)
+				.addOnConnectionFailedListener(this)
+				.addApi(LocationServices.API)
+				.build();
+		Log.i(TAG, "Build");
+	}
+
+	@Override
+	protected void onStart() {
+		super.onStart();
+		mGoogleApiClient.connect();
+
+		Toast.makeText(this, "OmStart", Toast.LENGTH_LONG).show();
+	}
+
+	@Override
+	protected void onStop() {
+		super.onStop();
+		if(mGoogleApiClient.isConnected()){
+			mGoogleApiClient.disconnect();
+		}
+	}
+
+	/**
+	 * Runs when a GoogleApiClient object successfully connects.
+	 */
+	@Override
+	public void onConnected(Bundle connectionHint) {
+		// Provides a simple way of getting a device's location and is well suited for
+		// applications that do not require a fine-grained location and that do not need location
+		// updates. Gets the best and most recent location currently available, which may be null
+		// in rare cases when a location is not available.
+		if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) == getPackageManager().PERMISSION_GRANTED) {
+			mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
+
+			if (mLastLocation != null) {
+				Toast.makeText(this, String.format("%s, %s: %f, %f", mLatitudeLabel, mLongitudeLabel, mLastLocation.getLatitude(), mLastLocation.getLongitude()), Toast.LENGTH_LONG).show();
+			} else {
+				Toast.makeText(this, R.string.no_location_detected, Toast.LENGTH_LONG).show();
+			}
+		}
+	}
+
+	@Override
+	public void onConnectionFailed(ConnectionResult result){
+		Log.i(TAG, "Connection failed: ConnectionResult.getErrorCode() = " + result.getErrorCode());
+	}
+
+
+	@Override
+	public void onConnectionSuspended(int Cause){
+		Log.i(TAG, "Connection suspended");
+		mGoogleApiClient.connect();
 	}
 
 	/**
