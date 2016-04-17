@@ -33,6 +33,17 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="13sp" />
+        <TextView
+            android:id="@+id/latitude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/longitude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp" />
 
         <Button
             android:id="@+id/btnLogout"
@@ -44,6 +55,35 @@
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="15sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/start_updates_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:onClick="startUpdatesButtonHandler"
+            android:text="@string/start_updates" />
+
+        <Button
+            android:id="@+id/stop_updates_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:enabled="false"
+            android:gravity="center"
+            android:onClick="stopUpdatesButtonHandler"
+            android:text="@string/stop_updates" />
     </LinearLayout>
 
 </RelativeLayout>
